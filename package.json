@@ -18,7 +18,7 @@
     "server"
   ],
   "author": "Kshyara",
-  "license": "MIT",
+  "license": "Custom",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.1",
     "express": "^4.18.2"
